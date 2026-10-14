@@ -1,3 +1,5 @@
+![mornrain-leafpress-digest](assets/preview.png)
+
 # Leafpress Digest
 
 资讯与简报聚合 WordPress 主题。报刊感排版、大图头条区、三栏分类区块、热门文章与标签云侧栏，内置完整的邮件订阅系统（后台可查看、导出 CSV）。零外部资源依赖。
